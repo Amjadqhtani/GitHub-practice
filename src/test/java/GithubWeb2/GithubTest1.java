@@ -11,7 +11,7 @@ import org.testng.annotations.Test;
 public class GithubTest1 extends BaseClass2 {
     @Test
     @Epic("docs flow")
-    @Feature("docs feature")
+   // @Feature("docs feature")
     @Story("user shall view docs")
     @Owner("amjad")
     @Severity(SeverityLevel.CRITICAL)
